@@ -5,14 +5,14 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Origami.sln: E805C28F27DECC84CD7EA15A1A97AA5A
-GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
-GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
+Origami.sln: modified
+GeneratedProjects\UWP\Assembly-CSharp\project.json: modified
+GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: modified
 Origami\App.cs: 840E91E0EB643ED8B47F120976B0BFC3
-Origami\Origami.csproj: 6F17F30F8680962C4D3E8C6506A105C3
-Origami\Origami.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+Origami\Origami.csproj: 6B20E436C0123157FB1E5815A07DF4A4
+Origami\Origami.csproj.user: modified
 Origami\Package.appxmanifest: 1C9D220D583D48E7D968580BE26BF6DE
-Origami\project.json: 1D02BC64BAC0D041019673A1C4C51737
+Origami\project.json: modified
 Origami\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 Origami\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
 Origami\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
